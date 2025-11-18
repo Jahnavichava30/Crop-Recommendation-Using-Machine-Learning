@@ -64,3 +64,10 @@ Useful for large datasets with many features
 
 ### Conclusion
 Machine learning offers an intelligent and systematic approach to crop selection, helping farmers overcome uncertainty caused by climate, soil changes, and market fluctuations. By analyzing soil and environmental data, the model provides accurate crop recommendations and yield predictions. Among the tested algorithms, **Random Forest** provides the highest accuracy, making it the most suitable model for real-world agricultural applications.
+# 📄 Published Research Paper
+## Title: Crop Recommendation System Using Machine Learning
+### Publication: The International Journal of Engineering Research (TIJER)
+### Paper ID: TIJER2306195
+### Published Paper PDF: https://tijer.org/TIJER/papers/TIJER2306195
+### Published Paper URL: https://tijer.org/TIJER/viewpaperforall?paper=TIJER2306195
+### Certification : https://tijer.org/tijer/certificatemanager.php?a_rid=106660
